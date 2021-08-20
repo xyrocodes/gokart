@@ -40,7 +40,7 @@ Analyzers.yml is organized into two sections: analyzers and sources.
 
     ```
     "package name":
-        - "variable/function/type name"
+        - "variable/function/type-name"
     ```
 
     If the package already exists in the sources section, add the variable/function/type underneath that package as each package can contain multiple vulnerable sources.
